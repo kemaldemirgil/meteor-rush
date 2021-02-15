@@ -7,6 +7,11 @@ I really enjoyed crafting it and I'm really impressed with the features `Scratch
 ### Image:
 ![](/images/mr.PNG)
 
+### License:
+
+Copyright © Kemal Demirgil. All rights reserved.
+Licensed under the [MIT](https://github.com/kemaldemirgil/meteor-rush/blob/main/LICENSE) license.
+
 
 
 
