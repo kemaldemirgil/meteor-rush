@@ -1,5 +1,5 @@
-https://img.shields.io/github/last-commit/kemaldemirgil/meteor-rush?color=%230000ff&logo=Github
-https://img.shields.io/github/languages/top/kemaldemirgil/meteor-rush?color=%23cc3300
+![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/meteor-rush?logo=Github)
+![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/meteor-rush?color=%23cc3300)
 ## Meteor Rush
 
 ### About:
