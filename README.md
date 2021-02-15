@@ -1,7 +1,9 @@
 ## Meteor Rush
 
 ### About:
-This is the first game I've created using https://scratch.mit.edu/ for my pre-work assignment for the bootcamp. Since my priorities are learning and expanding my practical skills, I unfortunately had to stop improving this game because of its time-consumption. I really enjoyed creating it and I will continue to improve it over time for recreational purposes.
+This is the first game I've created using https://scratch.mit.edu/ as my pre-work assignment for the bootcamp however, I unfortunately have to give a break to it for now.
+I really enjoyed crafting it and I'm really impressed with the features `Scratch` can perform. I will continue to improve it over time...
+![](/images/mr.png)
 
 
 
@@ -23,5 +25,4 @@ This is the first game I've created using https://scratch.mit.edu/ for my pre-wo
 
 
 
-
-created by: `gam3fac3`
+`gam3fac3`
