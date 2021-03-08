@@ -1,9 +1,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/meteor-rush?logo=Github)
 ![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/meteor-rush?color=%23cc3300)
-## Meteor Rush
+# Meteor Rush
 
 ### About:
-This is the first game I've created using https://scratch.mit.edu/. I really enjoyed creating it and I'm really impressed with the features `Scratch` can perform. I will continue to improve this idea it over time...
+This is the first game I've created using https://scratch.mit.edu/. I really enjoyed creating it and I'm really impressed with the features `Scratch` can perform. I will continue to improve it over time...
 
 ### Images:
 ![](/images/mr.PNG)
